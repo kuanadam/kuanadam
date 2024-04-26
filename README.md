@@ -1,8 +1,3 @@
-<a href="https://github.com/ernolfur">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ernolfur&count_private=true&hide=stars&theme=dark" />
-</a>
-<br/>
-<br/>
-<a href="https://github.com/ernolfur">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernolfur&layout=compact&theme=dark&langs_count=4" />
-</a>
+![ernolfur's Stats](https://github-readme-stats.vercel.app/api?username=ernolfur&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![ernolfur's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ernolfur&theme=vue-dark&hide_border=true)
+![ernolfur's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ernolfur&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
