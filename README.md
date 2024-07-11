@@ -1,5 +1,5 @@
 ### Hey there!👋
-- I'm a senior studying Computer Science at the University of Rhode Island and an **aspiring software engineer**
+- I'm a senior studying Computer Science at the University of Rhode Island and an **aspiring software engineer**.
 - My passion lies in developing end-to-end products, from initial concept and design, to implementation and deployment.
 - My goal is to create full-stack, user-friendly solutions that address real-world problems.
 
